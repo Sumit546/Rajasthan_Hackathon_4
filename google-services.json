@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "394497504404",
+    "firebase_url": "https://evcharge-af73f.firebaseio.com",
+    "project_id": "evcharge-af73f",
+    "storage_bucket": "evcharge-af73f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394497504404:android:2ac8c7eb10297239",
+        "android_client_info": {
+          "package_name": "com.simcoder.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394497504404-k6dv6de9cmevr9q85u6fau8jaejnmn00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simcoder.uber",
+            "certificate_hash": "584907f9442b492fc48c86082837bfd786e5ff02"
+          }
+        },
+        {
+          "client_id": "394497504404-3j61brha8hh7tuhlroolghj7od7as68o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOWP_2Z-kND0qvQHkgh5hmkCf80tmeML8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394497504404-3j61brha8hh7tuhlroolghj7od7as68o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
